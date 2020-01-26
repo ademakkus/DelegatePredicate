@@ -1,0 +1,2 @@
+# DelegatePredicate
+ Delegate Predicate

@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\bin\Debug\DelegatePredicate.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\bin\Debug\DelegatePredicate.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\bin\Debug\DelegatePredicate.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\obj\Debug\DelegatePredicate.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\obj\Debug\DelegatePredicate.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegatePredicate\DelegatePredicate\obj\Debug\DelegatePredicate.csprojResolveAssemblyReference.cache
